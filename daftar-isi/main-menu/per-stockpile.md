@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/perstockpile.PNG)
 
-Form ini digunakan untuk melihat informasi di setiap stockpile yang dipilih. Carilah stockpile sesuai dengan list yang telah di sediakan.
+Form ini digunakan untuk melihat informasi di setiap stockpile yang dimiliki rimau. Carilah stockpile sesuai dengan list yang telah di sediakan.
 
 ### SUMMARY STOCKPILE
 
